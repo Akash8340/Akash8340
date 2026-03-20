@@ -23,7 +23,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkumar&show_icons=true)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash8340&show_icons=true)
 
 ---
 
