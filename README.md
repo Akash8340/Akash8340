@@ -28,12 +28,12 @@
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=akashkumar)
+![GitHub Streak](https://streak-stats.demolab.com?user=Akash8340)
 
 ---
 
 ## 🧩 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8340&layout=compact)
 
 ---
 
