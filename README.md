@@ -18,7 +18,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-singh-63ba6a28b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akash8340/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Akash_singh_8340/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashsingh854469@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash8340)
 
@@ -147,10 +147,10 @@ A comprehensive loan lifecycle management system with borrower tracking and repa
 | 🏅 Achievement | 📊 Details |
 |---|---|
 | 🧩 DSA Problems Solved | **1000+** across platforms |
-| ⚡ LeetCode | **750+** problems — [View Profile](https://leetcode.com/u/Akash8340/) |
+| ⚡ LeetCode | **750+** problems — [View Profile](https://leetcode.com/u/Akash_singh_8340/) |
 | 🥇 JEE Mains | **98 Percentile** — Top 2% nationally |
 | 🎯 CodeChef Contests | **40+** contests with consistent performance |
-| ✅ AlgoUniversity | Cleared **OA Round 1 & Round 2** |
+| ✅ Cleared JEE-Advanced |
 
 ---
 
