@@ -84,72 +84,61 @@ fun_fact: I debug code faster than I debug my life 😄
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+---
 
 ### 🍔 Food Delivery App
-> *React • Node.js • MongoDB • Stripe • Socket.io*
+> *React • Node.js • Express.js • MongoDB • Stripe • Socket.io*
 
 A production-grade food delivery platform with real-time order tracking and secure payment flows.
 
-- 💳 Stripe payment integration with refund support
-- 🔐 JWT auth + role-based admin panel
-- ⚡ Real-time order tracking via Socket.io
-- 📦 Scalable REST APIs for cart & checkout
+- 💳 Stripe payment integration with order payments and refund support
+- 🔐 JWT authentication + role-based admin panel for order & product management
+- ⚡ Real-time order tracking engineered with Socket.io
+- 📦 Scalable REST APIs handling concurrent cart, checkout & order lifecycle transactions
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Akash8340/Food-del-app)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash8340/Food-del-app)
 
-</td>
-<td width="50%">
+---
 
 ### 🤖 AI Resume Builder
-> *React • Node.js • MongoDB • AI Integration*
+> *React • Node.js • Express.js • MongoDB • AI Integration*
 
 Full-stack resume builder with AI-powered optimization and live shareable previews.
 
-- 🧠 AI resume analysis & enhancement engine
-- 🖼️ Auto background removal for profile photos
-- 📄 Multiple modern templates with live preview
-- ⚡ 35% faster load via API & asset optimization
+- 🧠 AI-powered resume analysis & enhancement for improved professional impact
+- 🖼️ Image processing module with automatic background removal
+- 📄 Multiple modern templates with real-time live preview & unique shareable links
+- ⚡ 35% faster page load through efficient API design & asset optimization
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Akash8340/AI-Resume-Builder)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash8340/AI-Resume-Builder)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🌍 Job Heatmap
-> *React • Node.js • Puppeteer • MongoDB • Recharts*
+> *React • Node.js • Express.js • Puppeteer • MongoDB • Recharts • Redux Toolkit*
 
 Full-stack analytics dashboard that scrapes and visualizes real-time job market trends.
 
-- 🕷️ Automated job scraping via Puppeteer
-- 📊 Recharts visualizations of in-demand skills
-- 🤖 AI-driven career roadmap generation
-- 🔒 Redux Toolkit + JWT secured dashboard
+- 🕷️ Automated job scraping via Puppeteer to maintain a cleaned, real-time market dataset
+- 📊 Recharts visualizations surfacing top in-demand skills
+- 🤖 AI-driven career roadmap generation based on market insights
+- 🔒 Redux Toolkit + Tailwind CSS + JWT secured analytics dashboard
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Akash8340/Job-heatmap)
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash8340/Job-heatmap)
 
-</td>
-<td width="50%">
+---
 
 ### 💰 LMS — Loan Management System
 > *React • Node.js • Express.js • MongoDB*
 
 A comprehensive loan lifecycle management system with borrower tracking and repayment workflows.
 
-- 📋 End-to-end loan application & approval flow
+- 📋 End-to-end loan application, approval & disbursement flow
 - 👤 Borrower profiles with credit history tracking
 - 📅 Automated EMI schedules & payment reminders
-- 📈 Admin dashboard with loan portfolio analytics
+- 📈 Admin dashboard with full loan portfolio analytics
 
-[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Akash8340)
-
-</td>
-</tr>
-</table>
+[![Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash8340)
 
 ---
 
@@ -169,8 +158,14 @@ A comprehensive loan lifecycle management system with borrower tracking and repa
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akash8340&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8340&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akash8340&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash8340&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash8340&theme=tokyonight" />
 
 </div>
 
