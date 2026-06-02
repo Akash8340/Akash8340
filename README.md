@@ -33,7 +33,7 @@ name: Akash Kumar
 location: Bhopal, India 🇮🇳
 education: B.Tech @ IIIT Bhopal (CGPA: 8.87)
 current_focus: [Backend Engineering, System Design]
-interests: [Distributed Systems, Security, IoT, AI Integration]
+interests: [Distributed Systems, Security, IoT, AI Integration,ML]
 fun_fact: I debug code faster than I debug my life 😄
 ```
 
@@ -147,7 +147,7 @@ A comprehensive loan lifecycle management system with borrower tracking and repa
 | 🏅 Achievement | 📊 Details |
 |---|---|
 | 🧩 DSA Problems Solved | **1000+** across platforms |
-| ⚡ LeetCode | **750+** problems — [View Profile](https://leetcode.com/u/Akash_singh_8340/) |
+| ⚡ LeetCode | **900+** problems — [View Profile](https://leetcode.com/u/Akash_singh_8340/) |
 | 🥇 JEE Mains | **98 Percentile** — Top 2% nationally |
 | 🎯 CodeChef Contests | **40+** contests with consistent performance |
 | ✅ Cleared JEE-Advanced |
